@@ -1,0 +1,56 @@
+google-pacman (0.9) uluwatu; urgency=medium
+
+  * Upload to uluwatu 
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Sat, 13 May 2017 22:58:08 +0700
+
+google-pacman (0.8) tambora; urgency=low
+
+  * First upload to tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 10:36:51 +0000
+ 
+google-pacman (0.7) suroboyo; urgency=low
+
+  * change google-pacman.desktop icon blankon-pacman to google-pacman
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Thu, 06 Feb 2014 15:53:51 +0000
+ 
+google-pacman (0.6) suroboyo; urgency=low
+
+  * change debian/control depends html5app to maleo
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 07 Dec 2013 15:36:51 +0000
+
+google-pacman (0.5) suroboyo; urgency=low
+
+  * change google-pacman.desktop html5app to maleo
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 7 Dec 2013 00:29:51 +0000
+
+google-pacman (0.4) suroboyo; urgency=low
+
+  * added debian/install config.xml
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 07 Oct 2013 00:29:51 +0000
+
+google-pacman (0.3) suroboyo; urgency=low
+
+  * relink target google.pacman.desktop
+  * config.xml resize 480x800
+
+ -- Mijortsa <azis astrojim@surabaya.di.blankon.in>  Sun, 06 Oct 2013 21:33:51 +0000
+
+google-pacman (0.2) suroboyo; urgency=low
+
+  * debian/control used html5app 
+  * .desktop use html5app
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 Oct 2013 13:00:51 +0000
+
+google-pacman (0.1) rote; urgency=low
+
+  * Initial release.
+
+ -- Mohammad Anwari <mdamt@di.blankon.in>  Mon, 10 Oct 2011 13:40:41 +0300
+ 
